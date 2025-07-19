@@ -13,6 +13,8 @@
 
 // * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. Please contact us to request a removal.
 
+import 'https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800&display=swap';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { HashRouter } from "react-router-dom";
